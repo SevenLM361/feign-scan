@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.sevenlm361.feignscan
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

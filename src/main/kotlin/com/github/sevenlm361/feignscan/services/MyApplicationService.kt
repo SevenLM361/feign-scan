@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.sevenlm361.feignscan.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.sevenlm361.feignscan.MyBundle
 
 class MyApplicationService {
 
